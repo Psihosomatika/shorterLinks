@@ -1,0 +1,15 @@
+@import url(./__content/index.css);
+@import url(./__nav/index.css);
+@import url(./__logo/index.css);
+@import url(./__box/index.css);
+@import url(./__group/index.css);
+@import url(./__link/index.css);
+@import url(./__button/index.css);
+
+.header {
+  background-color: #fff;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}

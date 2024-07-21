@@ -1,0 +1,8 @@
+.header__content {
+  max-width: 1440px;
+  width: 100%;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  padding-top: 48px;
+}
